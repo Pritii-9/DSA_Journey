@@ -14,3 +14,6 @@ class inverted_satr {
     }
     
 }
+
+// to delete all .class files from vs.code and also add .gitignore
+// Remove-Item -Path .\*.class -Recurse -Force
