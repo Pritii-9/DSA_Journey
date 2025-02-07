@@ -1,4 +1,3 @@
-package Arrays.Array_I;
 
 
 public class maxSubArraySum
