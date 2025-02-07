@@ -1,4 +1,4 @@
-package DSA_Journey.Patterns.Char_P;
+package Patterns.Char_P;
 
 public class char_p {
     public static void main(String[] args) {
